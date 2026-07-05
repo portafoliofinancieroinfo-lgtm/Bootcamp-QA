@@ -25,7 +25,7 @@ El proyecto está organizado en los siguientes archivos:
 
 ## Instrucciones de Ejecución
 
-1. **Requisitos**: Tener instalado Python 3.14 y las librerías `requests` y `pytest`.
+1. **Requisitos**: Tener instalado Python 3.10+ y las librerías `requests` y `pytest`.
 2. **Configuración**: Actualiza la variable `URL_SERVICE` en el archivo `configuration.py` con la URL de tu servidor activo.
 3. **Ejecutar pruebas**: Abre una terminal en la carpeta del proyecto y ejecuta:
    ```bash
