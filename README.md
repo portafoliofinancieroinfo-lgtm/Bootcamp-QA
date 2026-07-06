@@ -44,4 +44,4 @@ que cubre las tres capas de una misma plataforma con 11 defectos gestionados en 
 ## Sobre mí
 
 Para ver mi experiencia consolidada, logros y casos de estudio completos,
-visita mi [Portafolio de Evidencias](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio_Evidencias).
+visita mi [portafolio profesional](https://github.com/portafoliofinancieroinfo-lgtm/portafolio).
